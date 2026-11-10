@@ -1,2 +1,12 @@
 # Repositorio_ima225
-Ejemplo de un repositorio
+
+Repositorio de prueba para los estudiantes de IMA225
+
+## LOS PAPUS Y YO XD
+
+## Fecha
+10-11-2026
+
+```
+print("Hola Mundo")
+```

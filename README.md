@@ -7,6 +7,6 @@ Repositorio de prueba para los estudiantes de IMA225
 ## Fecha
 10-11-2026
 
-```
+```python
 print("Hola Mundo")
 ```
